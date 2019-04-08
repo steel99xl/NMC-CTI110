@@ -1,0 +1,10 @@
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/bin/Debug/CA_CommandArray.exe.config
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/bin/Debug/CA_CommandArray.exe
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/bin/Debug/CA_CommandArray.pdb
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/bin/Debug/FinchAPI.dll
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/bin/Debug/HidSharp.dll
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/obj/Debug/CA_CommandArray.csprojAssemblyReference.cache
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/obj/Debug/CA_CommandArray.csproj.CoreCompileInputs.cache
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/obj/Debug/CA_CommandArray.csproj.CopyComplete
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/obj/Debug/CA_CommandArray.exe
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_11/CA_CommandArray.Str/CA_CommandArray/obj/Debug/CA_CommandArray.pdb
